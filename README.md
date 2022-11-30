@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou buscando uma colocação no mercado como Desenvolvedor Full-Stack Jr.
-- 🌱 Cursando DEVinHouse (FullStack) SENAI...
-- 🤔 No momento procuro ajuda com JAVA e Spring!
+- 🌱 Cursando DEVinHouse (FullStack) SENAI-SC
+
 
 ##
 
