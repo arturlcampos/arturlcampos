@@ -1,9 +1,9 @@
 ### Olá, eu sou o Artur Campos! 👋
 
 
-- 🔭 Estou buscando uma colocação no mercado como DevJr...
+- 🔭 Estou buscando uma colocação no mercado como Desenvolvedor Full-Stack Jr.
 - 🌱 Cursando DEVinHouse (FullStack) SENAI...
-- 🤔 No momento procuro ajuda com JAVA e Spring...
+- 🤔 No momento procuro ajuda com JAVA e Spring!
 
 ##
 
