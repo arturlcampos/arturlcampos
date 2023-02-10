@@ -1,7 +1,7 @@
 ### Olá, eu sou o Artur Campos! 👋
 
 
-- 🔭 Estou buscando uma colocação no mercado como Desenvolvedor Full Stack Jr.
+
 - 🌱 Cursando DEVinHouse (Full Stack) SENAI-SC
 
 
